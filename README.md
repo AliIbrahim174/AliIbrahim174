@@ -61,11 +61,11 @@ My work focuses on turning biomedical and healthcare problems into functional en
 | Project | Area | Description | Tech |
 |---|---|---|---|
 | [Medical Image Enhancement Desktop App](https://github.com/AliIbrahim174/medical-image-enhancement-app) | Medical Software / Image Processing | Desktop application for medical and standard image enhancement with DICOM support and from-scratch image processing algorithms. | Python, PyQt5, NumPy, pydicom |
+| [Iqa3 — SoundCloud Clone](https://github.com/SWE-Team-9/Cross) | Cross-Platform Software / Audio Streaming | Flutter cross-platform SoundCloud-style client with auth, profiles, upload, playback, messaging, notifications, playlists, and deep links. | Flutter, Dart, BLoC, Dio, GoRouter, Firebase |
 | [CyberHand](https://github.com/AliIbrahim174/cyberhand-emg-prosthetic-hand) | Biomedical Devices / Assistive Tech | Low-cost EMG-controlled prosthetic upper-limb prototype using embedded control and 3D-printed structure. | Arduino, EMG Sensor, Motors, 3D Printing |
 | [CZMD Exoplanet Habitability Platform](https://github.com/AliIbrahim174/czmd-exoplanet-habitability-platform) | AI / Data / Web | NASA Space Apps project for assessing exoplanet habitability using NASA Exoplanet Archive data. | Python, Scikit-learn, MySQL, Web |
-| [Space Exploration Mars Station System](https://github.com/AliIbrahim174/space-exploration-dsa-simulator) | Data Structures & Algorithms | C++ simulation system for Mars mission assignment and resource management using data structures and OOP. | C++, OOP, Queues, Priority Queues |
-| [Robo Rally Game](https://github.com/AliIbrahim174/robo-rally-cpp-oop-game) | C++ / OOP / Game Logic | Strategy-based C++ game demonstrating object-oriented programming, grid mechanics, player actions, and GUI interaction. | C++, OOP |
 | [Hospital Information System — Ophthalmology Department](https://github.com/AliIbrahim174/hospital-information-system-ophthalmology) | Digital Health / Healthcare Software | React + TypeScript hospital information system for ophthalmology workflows, appointments, visit notes, uploads, and dashboards. | React, TypeScript, Vite, REST API |
+| [Space Exploration Mars Station System](https://github.com/AliIbrahim174/space-exploration-dsa-simulator) | Data Structures & Algorithms | C++ simulation system for Mars mission assignment and resource management using data structures and OOP. | C++, OOP, Queues, Priority Queues |
 
 ---
 
