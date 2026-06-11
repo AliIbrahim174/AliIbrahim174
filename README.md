@@ -14,7 +14,7 @@ My work focuses on turning biomedical and healthcare problems into functional en
 * Embedded biomedical systems using Arduino, STM32, sensors, and microcontrollers
 * AI/data applications for scientific and healthcare-related problems
 * Digital health platforms and healthcare information systems
-* Building a cleaner open-source engineering portfolio
+* Documenting practical biomedical and healthcare engineering projects
 
 ---
 
@@ -104,14 +104,6 @@ My goal is to work on impactful healthcare technologies, including medical softw
 * LinkedIn: [ali-mahmoud-ibrahim](https://www.linkedin.com/in/ali-mahmoud-ibrahim/)
 * GitHub: [AliIbrahim174](https://github.com/AliIbrahim174)
 * Email: [alimakhedrwork@outlook.com](mailto:alimakhedrwork@outlook.com)
-
----
-
-## GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliIbrahim174&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliIbrahim174&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
